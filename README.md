@@ -6,4 +6,4 @@
 [Facebook](https://facebook.com/yahya.shqair) | 
 [LinkedIn](https://www.linkedin.com/in/yahyashqair/) 
 
-![GitHub Logo](/pic.png)
+![GitHub Logo](pic.png)
